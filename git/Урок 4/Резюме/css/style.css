@@ -1,0 +1,51 @@
+li:hover{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,92,1) 35%, rgba(0,212,255,1) 100%);
+
+}
+table {
+    width: 55%;
+    box-shadow: 2px 5px 12px 10px;
+    background-color: rgb(212, 203, 203);  
+    padding: 10px 10px 10px 10px;    /**Вверх, право, вниз, влево **/
+    margin: 10px 100px 10px 100px;    /**Вниз, право, вниз, влево **/
+    text-align: center;
+}
+h1{
+    font-style: italic;
+}
+
+#table1{
+    width: 30%;
+    padding: 10px 10px 10px 10px;
+   
+}
+#table2{
+    width: 70%;
+    padding-left: 0%;
+}
+#td-left{
+    text-align: center;
+    padding-right: 50px ;
+    width: 30%;
+}
+#td-right{
+    text-align: center;
+    padding-right: 100px ;
+    width: 30%;
+}
+}
+#btn{
+    background-color: aquamarine;
+    box-shadow: 2px 5px 12px 10px black;
+    text-align: center;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    color:thistle ;
+    font-size: 15px;
+    display: inline-block;
+}
+#btn:hover{
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+}
